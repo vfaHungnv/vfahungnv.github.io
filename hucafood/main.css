@@ -1,11 +1,10 @@
 @font-face {
     font-family: futura;
-    src: url("../fonts/Futura-Medium.ttf");
+    src: url("./Futura-Medium.ttf");
 }
 
 body {
     font-family: futura;
-    background-image: url("../imgs/background.png");
     background-repeat: repeat;
 }
 
